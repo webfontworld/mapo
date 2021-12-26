@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'MapoGoldenPier';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/mapo/MapoGoldenPier.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/mapo/MapoGoldenPier.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/mapo/MapoGoldenPier.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/mapo/MapoGoldenPier.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/mapo/MapoGoldenPier.ttf') format("truetype");
+    font-display: swap;
+}
