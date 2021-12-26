@@ -166,7 +166,7 @@
 </a>
 <pre>
 @font-face {
-    font-family: 'MapoPeacefull';
+    font-family: 'MapoHongdaeFreedom';
     font-weight: normal;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/mapo/MapoHongdaeFreedom.eot');
