@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'MapoDPP';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/mapo/MapoDPP.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/mapo/MapoDPP.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/mapo/MapoDPP.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/mapo/MapoDPP.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/mapo/MapoDPP.ttf') format("truetype");
+    font-display: swap;
+}
