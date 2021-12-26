@@ -66,7 +66,7 @@
 </a>
 <pre>
 @font-face {
-    font-family: 'MapoGoldenPier';
+    font-family: 'MapoDPP';
     font-weight: normal;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/mapo/MapoDPP.eot');
