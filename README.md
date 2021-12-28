@@ -26,7 +26,7 @@
 </a>
 <pre>
 @font-face {
-    font-family: 'MapoGoldenPier';
+    font-family: 'MapoFlowerIsland';
     font-weight: normal;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/mapo/MapoFlowerIsland.eot');
@@ -46,7 +46,7 @@
 </a>
 <pre>
 @font-face {
-    font-family: 'MapoGoldenPier';
+    font-family: 'MapoDacapo';
     font-weight: normal;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/mapo/MapoDacapo.eot');
@@ -86,7 +86,7 @@
 </a>
 <pre>
 @font-face {
-    font-family: 'MapoGoldenPier';
+    font-family: 'MapoMaponaru';
     font-weight: normal;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/mapo/MapoMaponaru.eot');
@@ -106,7 +106,7 @@
 </a>
 <pre>
 @font-face {
-    font-family: 'MapoGoldenPier';
+    font-family: 'MapoBackpacking';
     font-weight: normal;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/mapo/MapoBackpacking.eot');
@@ -166,7 +166,7 @@
 </a>
 <pre>
 @font-face {
-    font-family: 'MapoPeacefull';
+    font-family: 'MapoHongdaeFreedom';
     font-weight: normal;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/mapo/MapoHongdaeFreedom.eot');
